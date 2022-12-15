@@ -1,0 +1,9 @@
+{
+  "issueKeyTestcaseValues": {},
+  "testManagerBasePath": "https://staging.uipath.com/testsuite/DefaultTenant/testmanager_/",
+  "defaultProject": {
+    "id": "96353426-442d-0000-9946-0b44c7428106",
+    "name": "30° Demo Project",
+    "key": "DEMO"
+  }
+}

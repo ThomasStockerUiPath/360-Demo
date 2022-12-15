@@ -1,0 +1,1 @@
+[{"email":"john@doe.com","loan_amount":"10000","loan_term":"3","yearly_income":"10000","age":"40","expected_loan_rate":"9"},{"email":"jane@doe.com","loan_amount":"50000","loan_term":"5","yearly_income":"20000","age":"25","expected_loan_rate":"12"},{"email":"michael@meyers.com","loan_amount":"200000","loan_term":"5","yearly_income":"70000","age":"45","expected_loan_rate":"15"}]
