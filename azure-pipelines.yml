@@ -7,14 +7,14 @@ trigger:
 - main
 
 pool:
-  # vmImage: ubuntu-latest
-  vmImage: windows-2022
+  vmImage: ubuntu-latest
+  #vmImage: windows-2022
 
 steps:
 
 - task: UiPathInstallPlatform-preview@2
   inputs:
-    cliVersion: 'WIN_22.10.8418.30339'
+    cliVersion: 'X_22.10.8418.30339'
 - task: UiPathTest-preview@2
   inputs:
     testTarget: 'TestProject'
