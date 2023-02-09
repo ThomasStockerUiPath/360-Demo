@@ -12,10 +12,10 @@ pool:
 
 steps:
 
-#- task: UiPathInstallPlatform-preview@2
-#  inputs:
-#    cliVersion: 'X_22.10.8418.30339'
-- task: UiPathTest-preview@2
+- task: UiPathInstallPlatform-preview@3
+  inputs:
+    cliVersion: 'X_22.10.8418.30339'
+- task: UiPathTest-preview@3
   inputs:
     testTarget: 'TestProject'
     orchestratorConnection: 'Staging Orchestrator Preview Plugin'
