@@ -17,7 +17,7 @@ steps:
 #    cliVersion: 'X_22.10.8418.30339'
 - task: UiPathTest-preview@3
   inputs:
-    testTarget: 'TestProject'
+    testTarget: '360 demo'
     orchestratorConnection: 'Staging Orchestrator Preview Plugin'
     testProjectPath: 'project.json'
     folderName: 'Modern Folder'
