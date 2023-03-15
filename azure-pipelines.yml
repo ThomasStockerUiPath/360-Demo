@@ -17,9 +17,9 @@ steps:
 #    cliVersion: 'X_22.10.8418.30339'
 - task: UiPathTest-preview@3
   inputs:
-    testTarget: '360 demo'
+    testTarget: 'TestSet'
     orchestratorConnection: 'Staging Orchestrator Preview Plugin'
-    testProjectPath: 'project.json'
+    testSet: '360 demo'
     folderName: 'Modern Folder'
     testReportDestination: 'result.xml'
     traceLevel: 'Verbose'
