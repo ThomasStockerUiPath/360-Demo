@@ -19,7 +19,7 @@ steps:
   inputs:
     testTarget: 'TestSet'
     orchestratorConnection: 'Staging Orchestrator Preview Plugin'
-    testSet: '360 demo'
+    testSet: 'UiBank Regression'
     folderName: 'Modern Folder'
     testReportDestination: 'result.xml'
     traceLevel: 'Verbose'
