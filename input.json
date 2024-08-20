@@ -1,0 +1,5 @@
+{
+  "SomeInteger": 5,
+  "SomeString": foo,
+  "SomeBool": false
+}
