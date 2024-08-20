@@ -2,11 +2,11 @@
   {
     "name":"SomeInteger",    
     "value":"5"
-  }
+  },
   {
     "name":"SomeString",    
     "value":"foo"
-  }
+  },
   {
     "name":"SomeBool",    
     "value":"false"
