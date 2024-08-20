@@ -11,15 +11,13 @@ pool:
   vmImage: windows-2022
 
 steps:
-
-#- task: UiPathInstallPlatform-preview@3
-#  inputs:
-#    cliVersion: 'X_22.10.8418.30339'
 - task: UiPathTest-preview@3
   inputs:
     testTarget: 'TestSet'
     orchestratorConnection: 'Staging Orchestrator Preview Plugin'
+    parametersFilePath: 'input.json'
     testSet: 'InputParams'
     folderName: '360° Test Suite Demo'
     testReportDestination: 'result.xml'
     traceLevel: 'Verbose'
+
