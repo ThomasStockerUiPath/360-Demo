@@ -1,0 +1,12 @@
+[
+    {
+        "Name": "in_url",
+        "Type": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+        "Value": "https://www.rpachallenge.com/"
+    },
+    {
+        "Name": "in_phoneNumber",
+        "Type": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+        "Value": "9051905190"
+    }
+]
