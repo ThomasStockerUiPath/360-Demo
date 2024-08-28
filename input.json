@@ -1,17 +1,17 @@
 [
   {
-    "Name":"SomeInteger",  
+    "Name": "SomeInteger",
     "Type": "System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
-    "Value":"5"
+    "Value": 5
   },
   {
-    "Name":"SomeString",  
+    "Name": "SomeString",
     "Type": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
-    "Value":"foo"
+    "Value": "foo"
   },
   {
-    "Name":"SomeBool",
+    "Name": "SomeBool",
     "Type": "System.Boolean, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
-    "Value":"false"
+    "Value": false
   }
 ]
